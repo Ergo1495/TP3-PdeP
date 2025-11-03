@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "una calculadora reescrita con aplicaciones de POO",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ernesto Godoy",
+  "license": "ISC"
+}
